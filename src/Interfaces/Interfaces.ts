@@ -3,3 +3,9 @@ export interface Idigimon {
     img: string
     level: string
 }
+
+export interface IdigiProps {
+    digimonName: string
+    digimonLevel: string
+    digimonImg: string
+}
